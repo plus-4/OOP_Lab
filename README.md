@@ -2,5 +2,7 @@
 <br />
 To clone: <br />
 ```
-git clone git@github.com:plus-4/OOP_Lab.git
+var add2 = function(number) {
+  return number + 2;
+}
 ```
