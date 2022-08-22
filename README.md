@@ -1,9 +1,7 @@
 # OOP_Lab
 <br />
-To clone: <br />
+### To clone this repo: <br />
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+git clone git@github.com:plus-4/OOP_Lab.git
 ```
